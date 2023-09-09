@@ -1,0 +1,142 @@
+[09-Aug-2023 16:57:36 UTC] PHP Warning:  include(admin/includes/connection.php): Failed to open stream: No such file or directory in /home6/rndtd/public_html/demos/rofel/working/includes/head.php on line 3
+[09-Aug-2023 16:57:36 UTC] PHP Warning:  include(): Failed opening 'admin/includes/connection.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home6/rndtd/public_html/demos/rofel/working/includes/head.php on line 3
+[09-Aug-2023 16:57:36 UTC] PHP Warning:  Undefined variable $mysqli in /home6/rndtd/public_html/demos/rofel/working/includes/head.php on line 21
+[09-Aug-2023 16:57:36 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home6/rndtd/public_html/demos/rofel/working/includes/head.php:21
+Stack trace:
+#0 /home6/rndtd/public_html/demos/rofel/working/includes/head.php(21): mysqli_query()
+#1 /home6/rndtd/public_html/demos/rofel/working/course-detail-page.php(1): include('/home6/rndtd/pu...')
+#2 /home6/rndtd/public_html/demos/rofel/working/courses/general-nursing--midwifery.php(1): include_once('/home6/rndtd/pu...')
+#3 {main}
+  thrown in /home6/rndtd/public_html/demos/rofel/working/includes/head.php on line 21
+[09-Aug-2023 17:03:02 UTC] PHP Warning:  include(admin/includes/connection.php): Failed to open stream: No such file or directory in /home6/rndtd/public_html/demos/rofel/working/includes/head.php on line 3
+[09-Aug-2023 17:03:02 UTC] PHP Warning:  include(): Failed opening 'admin/includes/connection.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home6/rndtd/public_html/demos/rofel/working/includes/head.php on line 3
+[09-Aug-2023 17:03:02 UTC] PHP Warning:  Undefined variable $mysqli in /home6/rndtd/public_html/demos/rofel/working/includes/head.php on line 21
+[09-Aug-2023 17:03:02 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home6/rndtd/public_html/demos/rofel/working/includes/head.php:21
+Stack trace:
+#0 /home6/rndtd/public_html/demos/rofel/working/includes/head.php(21): mysqli_query()
+#1 /home6/rndtd/public_html/demos/rofel/working/course-detail-page.php(5): include_once('/home6/rndtd/pu...')
+#2 /home6/rndtd/public_html/demos/rofel/working/courses/basic-bsc-nursing.php(1): include_once('/home6/rndtd/pu...')
+#3 {main}
+  thrown in /home6/rndtd/public_html/demos/rofel/working/includes/head.php on line 21
+[09-Aug-2023 17:09:34 UTC] PHP Warning:  include(./admin/includes/connection.php): Failed to open stream: No such file or directory in /home6/rndtd/public_html/demos/rofel/working/includes/head.php on line 3
+[09-Aug-2023 17:09:34 UTC] PHP Warning:  include(): Failed opening './admin/includes/connection.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home6/rndtd/public_html/demos/rofel/working/includes/head.php on line 3
+[09-Aug-2023 17:09:34 UTC] PHP Warning:  Undefined variable $mysqli in /home6/rndtd/public_html/demos/rofel/working/includes/head.php on line 21
+[09-Aug-2023 17:09:34 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home6/rndtd/public_html/demos/rofel/working/includes/head.php:21
+Stack trace:
+#0 /home6/rndtd/public_html/demos/rofel/working/includes/head.php(21): mysqli_query()
+#1 /home6/rndtd/public_html/demos/rofel/working/course-detail-page.php(5): include_once('/home6/rndtd/pu...')
+#2 /home6/rndtd/public_html/demos/rofel/working/courses/basic-bsc-nursing.php(1): include_once('/home6/rndtd/pu...')
+#3 {main}
+  thrown in /home6/rndtd/public_html/demos/rofel/working/includes/head.php on line 21
+[09-Aug-2023 17:12:11 UTC] PHP Warning:  include_once(admin/includes/connection.php): Failed to open stream: No such file or directory in /home6/rndtd/public_html/demos/rofel/working/includes/head.php on line 3
+[09-Aug-2023 17:12:11 UTC] PHP Warning:  include_once(): Failed opening 'admin/includes/connection.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home6/rndtd/public_html/demos/rofel/working/includes/head.php on line 3
+[09-Aug-2023 17:12:11 UTC] PHP Warning:  Undefined variable $mysqli in /home6/rndtd/public_html/demos/rofel/working/includes/head.php on line 21
+[09-Aug-2023 17:12:11 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home6/rndtd/public_html/demos/rofel/working/includes/head.php:21
+Stack trace:
+#0 /home6/rndtd/public_html/demos/rofel/working/includes/head.php(21): mysqli_query()
+#1 /home6/rndtd/public_html/demos/rofel/working/course-detail-page.php(5): include_once('/home6/rndtd/pu...')
+#2 /home6/rndtd/public_html/demos/rofel/working/courses/basic-bsc-nursing.php(1): include_once('/home6/rndtd/pu...')
+#3 {main}
+  thrown in /home6/rndtd/public_html/demos/rofel/working/includes/head.php on line 21
+[09-Aug-2023 17:52:45 UTC] PHP Warning:  include(admin/includes/connection.p): Failed to open stream: No such file or directory in /home6/rndtd/public_html/demos/rofel/working/course-detail-page.php on line 5
+[09-Aug-2023 17:52:45 UTC] PHP Warning:  include(): Failed opening 'admin/includes/connection.p' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home6/rndtd/public_html/demos/rofel/working/course-detail-page.php on line 5
+[09-Aug-2023 17:52:45 UTC] PHP Warning:  Undefined variable $mysqli in /home6/rndtd/public_html/demos/rofel/working/head.php on line 20
+[09-Aug-2023 17:52:45 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home6/rndtd/public_html/demos/rofel/working/head.php:20
+Stack trace:
+#0 /home6/rndtd/public_html/demos/rofel/working/head.php(20): mysqli_query()
+#1 /home6/rndtd/public_html/demos/rofel/working/course-detail-page.php(6): include_once('/home6/rndtd/pu...')
+#2 /home6/rndtd/public_html/demos/rofel/working/courses/general-nursing--midwifery.php(1): include_once('/home6/rndtd/pu...')
+#3 {main}
+  thrown in /home6/rndtd/public_html/demos/rofel/working/head.php on line 20
+[09-Aug-2023 17:53:05 UTC] PHP Warning:  include(admin/includes/connection.p): Failed to open stream: No such file or directory in /home6/rndtd/public_html/demos/rofel/working/course-detail-page.php on line 5
+[09-Aug-2023 17:53:05 UTC] PHP Warning:  include(): Failed opening 'admin/includes/connection.p' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home6/rndtd/public_html/demos/rofel/working/course-detail-page.php on line 5
+[09-Aug-2023 17:53:05 UTC] PHP Warning:  Undefined variable $mysqli in /home6/rndtd/public_html/demos/rofel/working/head.php on line 20
+[09-Aug-2023 17:53:05 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home6/rndtd/public_html/demos/rofel/working/head.php:20
+Stack trace:
+#0 /home6/rndtd/public_html/demos/rofel/working/head.php(20): mysqli_query()
+#1 /home6/rndtd/public_html/demos/rofel/working/course-detail-page.php(6): include_once('/home6/rndtd/pu...')
+#2 /home6/rndtd/public_html/demos/rofel/working/courses/general-nursing--midwifery.php(1): include_once('/home6/rndtd/pu...')
+#3 {main}
+  thrown in /home6/rndtd/public_html/demos/rofel/working/head.php on line 20
+[09-Aug-2023 17:54:39 UTC] PHP Warning:  include(admin/includes/connection.p): Failed to open stream: No such file or directory in /home6/rndtd/public_html/demos/rofel/working/course-detail-page.php on line 5
+[09-Aug-2023 17:54:39 UTC] PHP Warning:  include(): Failed opening 'admin/includes/connection.p' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home6/rndtd/public_html/demos/rofel/working/course-detail-page.php on line 5
+[09-Aug-2023 17:54:39 UTC] PHP Warning:  Undefined variable $mysqli in /home6/rndtd/public_html/demos/rofel/working/head.php on line 20
+[09-Aug-2023 17:54:39 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home6/rndtd/public_html/demos/rofel/working/head.php:20
+Stack trace:
+#0 /home6/rndtd/public_html/demos/rofel/working/head.php(20): mysqli_query()
+#1 /home6/rndtd/public_html/demos/rofel/working/course-detail-page.php(6): include_once('/home6/rndtd/pu...')
+#2 /home6/rndtd/public_html/demos/rofel/working/courses/general-nursing--midwifery.php(1): include_once('/home6/rndtd/pu...')
+#3 {main}
+  thrown in /home6/rndtd/public_html/demos/rofel/working/head.php on line 20
+[09-Aug-2023 17:54:40 UTC] PHP Warning:  include(admin/includes/connection.p): Failed to open stream: No such file or directory in /home6/rndtd/public_html/demos/rofel/working/course-detail-page.php on line 5
+[09-Aug-2023 17:54:40 UTC] PHP Warning:  include(): Failed opening 'admin/includes/connection.p' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home6/rndtd/public_html/demos/rofel/working/course-detail-page.php on line 5
+[09-Aug-2023 17:54:40 UTC] PHP Warning:  Undefined variable $mysqli in /home6/rndtd/public_html/demos/rofel/working/head.php on line 20
+[09-Aug-2023 17:54:40 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home6/rndtd/public_html/demos/rofel/working/head.php:20
+Stack trace:
+#0 /home6/rndtd/public_html/demos/rofel/working/head.php(20): mysqli_query()
+#1 /home6/rndtd/public_html/demos/rofel/working/course-detail-page.php(6): include_once('/home6/rndtd/pu...')
+#2 /home6/rndtd/public_html/demos/rofel/working/courses/general-nursing--midwifery.php(1): include_once('/home6/rndtd/pu...')
+#3 {main}
+  thrown in /home6/rndtd/public_html/demos/rofel/working/head.php on line 20
+[09-Aug-2023 17:57:30 UTC] PHP Warning:  include(admin/includes/connection.p): Failed to open stream: No such file or directory in /home6/rndtd/public_html/demos/rofel/working/course-detail-page.php on line 5
+[09-Aug-2023 17:57:30 UTC] PHP Warning:  include(): Failed opening 'admin/includes/connection.p' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home6/rndtd/public_html/demos/rofel/working/course-detail-page.php on line 5
+[09-Aug-2023 17:57:30 UTC] PHP Warning:  Undefined variable $mysqli in /home6/rndtd/public_html/demos/rofel/working/head.php on line 20
+[09-Aug-2023 17:57:30 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home6/rndtd/public_html/demos/rofel/working/head.php:20
+Stack trace:
+#0 /home6/rndtd/public_html/demos/rofel/working/head.php(20): mysqli_query()
+#1 /home6/rndtd/public_html/demos/rofel/working/course-detail-page.php(6): include_once('/home6/rndtd/pu...')
+#2 /home6/rndtd/public_html/demos/rofel/working/courses/basic-bsc-nursing.php(1): include_once('/home6/rndtd/pu...')
+#3 {main}
+  thrown in /home6/rndtd/public_html/demos/rofel/working/head.php on line 20
+[09-Aug-2023 17:59:14 UTC] PHP Warning:  include(admin/includes/connection.p): Failed to open stream: No such file or directory in /home6/rndtd/public_html/demos/rofel/working/course-detail-page.php on line 5
+[09-Aug-2023 17:59:14 UTC] PHP Warning:  include(): Failed opening 'admin/includes/connection.p' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home6/rndtd/public_html/demos/rofel/working/course-detail-page.php on line 5
+[09-Aug-2023 17:59:14 UTC] PHP Warning:  Undefined variable $mysqli in /home6/rndtd/public_html/demos/rofel/working/head.php on line 20
+[09-Aug-2023 17:59:14 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home6/rndtd/public_html/demos/rofel/working/head.php:20
+Stack trace:
+#0 /home6/rndtd/public_html/demos/rofel/working/head.php(20): mysqli_query()
+#1 /home6/rndtd/public_html/demos/rofel/working/course-detail-page.php(6): include_once('/home6/rndtd/pu...')
+#2 /home6/rndtd/public_html/demos/rofel/working/courses/basic-bsc-nursing.php(1): include_once('/home6/rndtd/pu...')
+#3 {main}
+  thrown in /home6/rndtd/public_html/demos/rofel/working/head.php on line 20
+[09-Aug-2023 17:59:18 UTC] PHP Warning:  include(admin/includes/connection.p): Failed to open stream: No such file or directory in /home6/rndtd/public_html/demos/rofel/working/course-detail-page.php on line 5
+[09-Aug-2023 17:59:18 UTC] PHP Warning:  include(): Failed opening 'admin/includes/connection.p' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home6/rndtd/public_html/demos/rofel/working/course-detail-page.php on line 5
+[09-Aug-2023 17:59:18 UTC] PHP Warning:  Undefined variable $mysqli in /home6/rndtd/public_html/demos/rofel/working/head.php on line 20
+[09-Aug-2023 17:59:18 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home6/rndtd/public_html/demos/rofel/working/head.php:20
+Stack trace:
+#0 /home6/rndtd/public_html/demos/rofel/working/head.php(20): mysqli_query()
+#1 /home6/rndtd/public_html/demos/rofel/working/course-detail-page.php(6): include_once('/home6/rndtd/pu...')
+#2 /home6/rndtd/public_html/demos/rofel/working/courses/basic-bsc-nursing.php(1): include_once('/home6/rndtd/pu...')
+#3 {main}
+  thrown in /home6/rndtd/public_html/demos/rofel/working/head.php on line 20
+[09-Aug-2023 17:59:21 UTC] PHP Warning:  include(admin/includes/connection.p): Failed to open stream: No such file or directory in /home6/rndtd/public_html/demos/rofel/working/course-detail-page.php on line 5
+[09-Aug-2023 17:59:21 UTC] PHP Warning:  include(): Failed opening 'admin/includes/connection.p' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home6/rndtd/public_html/demos/rofel/working/course-detail-page.php on line 5
+[09-Aug-2023 17:59:21 UTC] PHP Warning:  Undefined variable $mysqli in /home6/rndtd/public_html/demos/rofel/working/head.php on line 20
+[09-Aug-2023 17:59:21 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home6/rndtd/public_html/demos/rofel/working/head.php:20
+Stack trace:
+#0 /home6/rndtd/public_html/demos/rofel/working/head.php(20): mysqli_query()
+#1 /home6/rndtd/public_html/demos/rofel/working/course-detail-page.php(6): include_once('/home6/rndtd/pu...')
+#2 /home6/rndtd/public_html/demos/rofel/working/courses/basic-bsc-nursing.php(1): include_once('/home6/rndtd/pu...')
+#3 {main}
+  thrown in /home6/rndtd/public_html/demos/rofel/working/head.php on line 20
+[09-Aug-2023 17:59:37 UTC] PHP Warning:  include(admin/includes/connection.p): Failed to open stream: No such file or directory in /home6/rndtd/public_html/demos/rofel/working/course-detail-page.php on line 5
+[09-Aug-2023 17:59:37 UTC] PHP Warning:  include(): Failed opening 'admin/includes/connection.p' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home6/rndtd/public_html/demos/rofel/working/course-detail-page.php on line 5
+[09-Aug-2023 17:59:37 UTC] PHP Warning:  Undefined variable $mysqli in /home6/rndtd/public_html/demos/rofel/working/head.php on line 20
+[09-Aug-2023 17:59:37 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home6/rndtd/public_html/demos/rofel/working/head.php:20
+Stack trace:
+#0 /home6/rndtd/public_html/demos/rofel/working/head.php(20): mysqli_query()
+#1 /home6/rndtd/public_html/demos/rofel/working/course-detail-page.php(6): include_once('/home6/rndtd/pu...')
+#2 /home6/rndtd/public_html/demos/rofel/working/courses/basic-bsc-nursing.php(1): include_once('/home6/rndtd/pu...')
+#3 {main}
+  thrown in /home6/rndtd/public_html/demos/rofel/working/head.php on line 20
+[09-Aug-2023 17:59:37 UTC] PHP Warning:  include(admin/includes/connection.p): Failed to open stream: No such file or directory in /home6/rndtd/public_html/demos/rofel/working/course-detail-page.php on line 5
+[09-Aug-2023 17:59:37 UTC] PHP Warning:  include(): Failed opening 'admin/includes/connection.p' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home6/rndtd/public_html/demos/rofel/working/course-detail-page.php on line 5
+[09-Aug-2023 17:59:37 UTC] PHP Warning:  Undefined variable $mysqli in /home6/rndtd/public_html/demos/rofel/working/head.php on line 20
+[09-Aug-2023 17:59:37 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home6/rndtd/public_html/demos/rofel/working/head.php:20
+Stack trace:
+#0 /home6/rndtd/public_html/demos/rofel/working/head.php(20): mysqli_query()
+#1 /home6/rndtd/public_html/demos/rofel/working/course-detail-page.php(6): include_once('/home6/rndtd/pu...')
+#2 /home6/rndtd/public_html/demos/rofel/working/courses/basic-bsc-nursing.php(1): include_once('/home6/rndtd/pu...')
+#3 {main}
+  thrown in /home6/rndtd/public_html/demos/rofel/working/head.php on line 20
+[07-Sep-2023 10:05:37 UTC] PHP Parse error:  syntax error, unexpected token "?", expecting end of file in /home6/rndtd/public_html/demos/rofel/working/course-detail-page.php on line 66
+[07-Sep-2023 10:05:40 UTC] PHP Parse error:  syntax error, unexpected token "?", expecting end of file in /home6/rndtd/public_html/demos/rofel/working/course-detail-page.php on line 66

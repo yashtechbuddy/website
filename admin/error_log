@@ -1,0 +1,226 @@
+[22-May-2023 07:36:47 UTC] PHP Warning:  Undefined variable $mysqli in /home6/houseofgames/public_html/travelsathi/admin/seo.php on line 5
+[22-May-2023 07:36:47 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home6/houseofgames/public_html/travelsathi/admin/seo.php:5
+Stack trace:
+#0 /home6/houseofgames/public_html/travelsathi/admin/seo.php(5): mysqli_query(NULL, 'SELECT * FROM t...')
+#1 {main}
+  thrown in /home6/houseofgames/public_html/travelsathi/admin/seo.php on line 5
+[24-May-2023 05:24:27 UTC] PHP Warning:  Undefined variable $mysqli in /home6/houseofgames/public_html/travelsathi/admin/seo.php on line 5
+[24-May-2023 05:24:27 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home6/houseofgames/public_html/travelsathi/admin/seo.php:5
+Stack trace:
+#0 /home6/houseofgames/public_html/travelsathi/admin/seo.php(5): mysqli_query(NULL, 'SELECT * FROM t...')
+#1 {main}
+  thrown in /home6/houseofgames/public_html/travelsathi/admin/seo.php on line 5
+[24-May-2023 05:50:49 UTC] PHP Warning:  Undefined variable $mysqli in /home6/houseofgames/public_html/travelsathi/admin/seo_add_form.php on line 4
+[24-May-2023 05:50:49 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home6/houseofgames/public_html/travelsathi/admin/seo_add_form.php:4
+Stack trace:
+#0 /home6/houseofgames/public_html/travelsathi/admin/seo_add_form.php(4): mysqli_query(NULL, 'SELECT * FROM t...')
+#1 {main}
+  thrown in /home6/houseofgames/public_html/travelsathi/admin/seo_add_form.php on line 4
+[24-May-2023 05:50:52 UTC] PHP Warning:  Undefined variable $mysqli in /home6/houseofgames/public_html/travelsathi/admin/seo_add_form.php on line 4
+[24-May-2023 05:50:52 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home6/houseofgames/public_html/travelsathi/admin/seo_add_form.php:4
+Stack trace:
+#0 /home6/houseofgames/public_html/travelsathi/admin/seo_add_form.php(4): mysqli_query(NULL, 'SELECT * FROM t...')
+#1 {main}
+  thrown in /home6/houseofgames/public_html/travelsathi/admin/seo_add_form.php on line 4
+[29-May-2023 09:14:39 UTC] PHP Warning:  Undefined variable $mysqli in /home6/houseofgames/public_html/travelsathi/admin/seo_add_form.php on line 4
+[29-May-2023 09:14:39 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home6/houseofgames/public_html/travelsathi/admin/seo_add_form.php:4
+Stack trace:
+#0 /home6/houseofgames/public_html/travelsathi/admin/seo_add_form.php(4): mysqli_query(NULL, 'SELECT * FROM t...')
+#1 {main}
+  thrown in /home6/houseofgames/public_html/travelsathi/admin/seo_add_form.php on line 4
+[29-May-2023 09:15:19 UTC] PHP Warning:  Undefined variable $mysqli in /home6/houseofgames/public_html/travelsathi/admin/seo_add_form.php on line 4
+[29-May-2023 09:15:19 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home6/houseofgames/public_html/travelsathi/admin/seo_add_form.php:4
+Stack trace:
+#0 /home6/houseofgames/public_html/travelsathi/admin/seo_add_form.php(4): mysqli_query(NULL, 'SELECT * FROM t...')
+#1 {main}
+  thrown in /home6/houseofgames/public_html/travelsathi/admin/seo_add_form.php on line 4
+[29-May-2023 09:15:28 UTC] PHP Warning:  Undefined variable $mysqli in /home6/houseofgames/public_html/travelsathi/admin/seo_add_form.php on line 4
+[29-May-2023 09:15:28 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home6/houseofgames/public_html/travelsathi/admin/seo_add_form.php:4
+Stack trace:
+#0 /home6/houseofgames/public_html/travelsathi/admin/seo_add_form.php(4): mysqli_query(NULL, 'SELECT * FROM t...')
+#1 {main}
+  thrown in /home6/houseofgames/public_html/travelsathi/admin/seo_add_form.php on line 4
+[29-May-2023 09:26:14 UTC] PHP Parse error:  syntax error, unexpected token "--" in /home6/houseofgames/public_html/travelsathi/admin/add_products.php on line 176
+[29-May-2023 10:36:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home6/houseofgames/public_html/travelsathi/admin/seo.php on line 5
+[29-May-2023 10:36:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home6/houseofgames/public_html/travelsathi/admin/seo.php on line 6
+[29-May-2023 10:36:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home6/houseofgames/public_html/travelsathi/admin/seo.php on line 9
+[29-May-2023 10:36:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home6/houseofgames/public_html/travelsathi/admin/seo.php on line 10
+[01-Jun-2023 07:03:52 UTC] PHP Parse error:  Unclosed '{' on line 8 in /home6/houseofgames/public_html/travelsathi/admin/add_blog.php on line 372
+[04-Aug-2023 06:27:53 UTC] PHP Parse error:  syntax error, unexpected token ">" in /home6/rndtd/public_html/demos/rofel/admin/add_banner.php on line 127
+[04-Aug-2023 06:28:25 UTC] PHP Parse error:  syntax error, unexpected token ">" in /home6/rndtd/public_html/demos/rofel/admin/add_banner.php on line 127
+[04-Aug-2023 06:28:34 UTC] PHP Parse error:  syntax error, unexpected token ">" in /home6/rndtd/public_html/demos/rofel/admin/add_banner.php on line 127
+[04-Aug-2023 06:30:11 UTC] PHP Parse error:  syntax error, unexpected token ">" in /home6/rndtd/public_html/demos/rofel/admin/add_banner.php on line 127
+[04-Aug-2023 06:35:27 UTC] PHP Parse error:  syntax error, unexpected token ">" in /home6/rndtd/public_html/demos/rofel/admin/add_banner.php on line 127
+[04-Aug-2023 06:35:57 UTC] PHP Parse error:  syntax error, unexpected token ">" in /home6/rndtd/public_html/demos/rofel/admin/add_banner.php on line 127
+[04-Aug-2023 06:36:15 UTC] PHP Parse error:  syntax error, unexpected token ">" in /home6/rndtd/public_html/demos/rofel/admin/add_banner.php on line 127
+[04-Aug-2023 06:37:17 UTC] PHP Parse error:  syntax error, unexpected token ">" in /home6/rndtd/public_html/demos/rofel/admin/add_banner.php on line 127
+[04-Aug-2023 09:51:51 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home6/rndtd/public_html/demos/rofel/working/admin/add_seo.php on line 88
+[04-Aug-2023 09:51:52 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home6/rndtd/public_html/demos/rofel/working/admin/add_seo.php on line 88
+[04-Aug-2023 09:51:56 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home6/rndtd/public_html/demos/rofel/working/admin/add_seo.php on line 88
+[05-Aug-2023 09:59:15 UTC] PHP Parse error:  syntax error, unexpected token ">" in /home6/rndtd/public_html/demos/rofel/working/admin/add_banner.php on line 127
+[05-Aug-2023 09:59:25 UTC] PHP Parse error:  syntax error, unexpected token ">" in /home6/rndtd/public_html/demos/rofel/working/admin/add_banner.php on line 127
+[05-Aug-2023 09:59:33 UTC] PHP Parse error:  syntax error, unexpected token ">" in /home6/rndtd/public_html/demos/rofel/working/admin/add_banner.php on line 127
+[05-Aug-2023 10:00:20 UTC] PHP Parse error:  syntax error, unexpected token ">" in /home6/rndtd/public_html/demos/rofel/working/admin/add_banner.php on line 127
+[05-Aug-2023 10:00:37 UTC] PHP Parse error:  syntax error, unexpected token ">" in /home6/rndtd/public_html/demos/rofel/working/admin/add_banner.php on line 127
+[05-Aug-2023 10:01:10 UTC] PHP Parse error:  syntax error, unexpected token ">" in /home6/rndtd/public_html/demos/rofel/working/admin/add_banner.php on line 127
+[14-Aug-2023 04:34:23 UTC] PHP Parse error:  syntax error, unexpected token "{" in /home6/rndtd/public_html/demos/rofel/working/admin/manage_about_us.php on line 139
+[14-Aug-2023 04:34:26 UTC] PHP Parse error:  syntax error, unexpected token "{" in /home6/rndtd/public_html/demos/rofel/working/admin/manage_about_us.php on line 139
+[14-Aug-2023 04:34:27 UTC] PHP Parse error:  syntax error, unexpected token "{" in /home6/rndtd/public_html/demos/rofel/working/admin/manage_about_us.php on line 139
+[14-Aug-2023 04:34:28 UTC] PHP Parse error:  syntax error, unexpected token "{" in /home6/rndtd/public_html/demos/rofel/working/admin/manage_about_us.php on line 139
+[14-Aug-2023 04:34:34 UTC] PHP Parse error:  syntax error, unexpected token "{" in /home6/rndtd/public_html/demos/rofel/working/admin/manage_about_us.php on line 139
+[14-Aug-2023 04:34:42 UTC] PHP Parse error:  syntax error, unexpected token "{" in /home6/rndtd/public_html/demos/rofel/working/admin/manage_about_us.php on line 139
+[05-Sep-2023 11:04:07 UTC] PHP Warning:  Undefined array key "edit_id" in /home6/rndtd/public_html/demos/rofel/working/admin/add_file.php on line 208
+[05-Sep-2023 11:04:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tbl_gallery_category' at line 1 in /home6/rndtd/public_html/demos/rofel/working/admin/add_file.php:217
+Stack trace:
+#0 /home6/rndtd/public_html/demos/rofel/working/admin/add_file.php(217): mysqli_query(Object(mysqli), 'SELECT * tbl_ga...')
+#1 {main}
+  thrown in /home6/rndtd/public_html/demos/rofel/working/admin/add_file.php on line 217
+[05-Sep-2023 11:05:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tbl_gallery_category' at line 1 in /home6/rndtd/public_html/demos/rofel/working/admin/add_file.php:217
+Stack trace:
+#0 /home6/rndtd/public_html/demos/rofel/working/admin/add_file.php(217): mysqli_query(Object(mysqli), 'SELECT * tbl_ga...')
+#1 {main}
+  thrown in /home6/rndtd/public_html/demos/rofel/working/admin/add_file.php on line 217
+[05-Sep-2023 11:07:54 UTC] PHP Warning:  Undefined array key "categroy_name" in /home6/rndtd/public_html/demos/rofel/working/admin/add_file.php on line 221
+[05-Sep-2023 11:18:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home6/rndtd/public_html/demos/rofel/working/admin/add_file.php on line 265
+[05-Sep-2023 11:19:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home6/rndtd/public_html/demos/rofel/working/admin/add_file.php on line 264
+[05-Sep-2023 11:19:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home6/rndtd/public_html/demos/rofel/working/admin/add_file.php on line 264
+[05-Sep-2023 13:28:54 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home6/rndtd/public_html/demos/rofel/working/admin/manage_gallery.php on line 96
+[05-Sep-2023 13:28:56 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home6/rndtd/public_html/demos/rofel/working/admin/manage_gallery.php on line 96
+[05-Sep-2023 13:28:59 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home6/rndtd/public_html/demos/rofel/working/admin/manage_gallery.php on line 96
+[06-Sep-2023 04:33:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rndtd_ssrcn_db.tbl_video_gallery' doesn't exist in /home6/rndtd/public_html/demos/rofel/working/admin/home.php:27
+Stack trace:
+#0 /home6/rndtd/public_html/demos/rofel/working/admin/home.php(27): mysqli_query(Object(mysqli), 'SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home6/rndtd/public_html/demos/rofel/working/admin/home.php on line 27
+[06-Sep-2023 04:33:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rndtd_ssrcn_db.tbl_video_gallery' doesn't exist in /home6/rndtd/public_html/demos/rofel/working/admin/home.php:27
+Stack trace:
+#0 /home6/rndtd/public_html/demos/rofel/working/admin/home.php(27): mysqli_query(Object(mysqli), 'SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home6/rndtd/public_html/demos/rofel/working/admin/home.php on line 27
+[06-Sep-2023 04:33:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rndtd_ssrcn_db.tbl_video_gallery' doesn't exist in /home6/rndtd/public_html/demos/rofel/working/admin/home.php:27
+Stack trace:
+#0 /home6/rndtd/public_html/demos/rofel/working/admin/home.php(27): mysqli_query(Object(mysqli), 'SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home6/rndtd/public_html/demos/rofel/working/admin/home.php on line 27
+[06-Sep-2023 05:47:08 UTC] PHP Warning:  Undefined array key "alt_tag" in /home6/rndtd/public_html/demos/rofel/working/admin/add_testimonial.php on line 90
+[06-Sep-2023 05:47:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's ', `alt_tag` = '', `long_desc` = ' our nursing college represents a dynamic...' at line 1 in /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php:100
+Stack trace:
+#0 /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php(100): mysqli_query(Object(mysqli), 'UPDATE tbl_test...')
+#1 /home6/rndtd/public_html/demos/rofel/working/admin/add_testimonial.php(94): Update('tbl_testimonial', Array, 'WHERE id = '2'')
+#2 {main}
+  thrown in /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php on line 100
+[06-Sep-2023 05:47:34 UTC] PHP Warning:  Undefined array key "alt_tag" in /home6/rndtd/public_html/demos/rofel/working/admin/add_testimonial.php on line 90
+[06-Sep-2023 05:47:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's ', `alt_tag` = '', `long_desc` = ' our nursing college represents a dynamic...' at line 1 in /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php:100
+Stack trace:
+#0 /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php(100): mysqli_query(Object(mysqli), 'UPDATE tbl_test...')
+#1 /home6/rndtd/public_html/demos/rofel/working/admin/add_testimonial.php(94): Update('tbl_testimonial', Array, 'WHERE id = '2'')
+#2 {main}
+  thrown in /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php on line 100
+[06-Sep-2023 05:59:47 UTC] PHP Warning:  Undefined array key "alt_tag" in /home6/rndtd/public_html/demos/rofel/working/admin/add_testimonial.php on line 90
+[06-Sep-2023 05:59:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's ', `alt_tag` = '', `long_desc` = ' our nursing college represents a dynamic...' at line 1 in /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php:100
+Stack trace:
+#0 /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php(100): mysqli_query(Object(mysqli), 'UPDATE tbl_test...')
+#1 /home6/rndtd/public_html/demos/rofel/working/admin/add_testimonial.php(94): Update('tbl_testimonial', Array, 'WHERE id = '2'')
+#2 {main}
+  thrown in /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php on line 100
+[06-Sep-2023 06:04:42 UTC] PHP Warning:  Undefined array key "alt_tag" in /home6/rndtd/public_html/demos/rofel/working/admin/add_testimonial.php on line 90
+[06-Sep-2023 06:04:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's ', `alt_tag` = '', `long_desc` = ' our nursing college represents a dynamic...' at line 1 in /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php:100
+Stack trace:
+#0 /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php(100): mysqli_query(Object(mysqli), 'UPDATE tbl_test...')
+#1 /home6/rndtd/public_html/demos/rofel/working/admin/add_testimonial.php(94): Update('tbl_testimonial', Array, 'WHERE id = '2'')
+#2 {main}
+  thrown in /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php on line 100
+[06-Sep-2023 07:15:27 UTC] PHP Warning:  Undefined array key "alt_tag" in /home6/rndtd/public_html/demos/rofel/working/admin/add_testimonial.php on line 90
+[06-Sep-2023 07:15:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's ', `alt_tag` = '', `long_desc` = ' our nursing college represents a dynamic...' at line 1 in /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php:100
+Stack trace:
+#0 /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php(100): mysqli_query(Object(mysqli), 'UPDATE tbl_test...')
+#1 /home6/rndtd/public_html/demos/rofel/working/admin/add_testimonial.php(94): Update('tbl_testimonial', Array, 'WHERE id = '2'')
+#2 {main}
+  thrown in /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php on line 100
+[06-Sep-2023 07:25:57 UTC] PHP Warning:  Undefined array key "alt_tag" in /home6/rndtd/public_html/demos/rofel/working/admin/add_testimonial.php on line 90
+[06-Sep-2023 07:25:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's ', `alt_tag` = '', `long_desc` = ' our nursing college represents a dynamic...' at line 1 in /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php:100
+Stack trace:
+#0 /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php(100): mysqli_query(Object(mysqli), 'UPDATE tbl_test...')
+#1 /home6/rndtd/public_html/demos/rofel/working/admin/add_testimonial.php(94): Update('tbl_testimonial', Array, 'WHERE id = '2'')
+#2 {main}
+  thrown in /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php on line 100
+[06-Sep-2023 07:26:07 UTC] PHP Warning:  Undefined array key "alt_tag" in /home6/rndtd/public_html/demos/rofel/working/admin/add_testimonial.php on line 90
+[06-Sep-2023 07:26:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's a place where I witness the transformation of eager students into skilled, ...' at line 1 in /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php:100
+Stack trace:
+#0 /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php(100): mysqli_query(Object(mysqli), 'UPDATE tbl_test...')
+#1 /home6/rndtd/public_html/demos/rofel/working/admin/add_testimonial.php(94): Update('tbl_testimonial', Array, 'WHERE id = '2'')
+#2 {main}
+  thrown in /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php on line 100
+[06-Sep-2023 07:29:08 UTC] PHP Warning:  Undefined array key "alt_tag" in /home6/rndtd/public_html/demos/rofel/working/admin/add_testimonial.php on line 90
+[06-Sep-2023 07:29:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's ', `alt_tag` = '', `long_desc` = ' our nursing college represents a dynamic...' at line 1 in /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php:100
+Stack trace:
+#0 /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php(100): mysqli_query(Object(mysqli), 'UPDATE tbl_test...')
+#1 /home6/rndtd/public_html/demos/rofel/working/admin/add_testimonial.php(94): Update('tbl_testimonial', Array, 'WHERE id = '2'')
+#2 {main}
+  thrown in /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php on line 100
+[06-Sep-2023 07:32:21 UTC] PHP Warning:  Undefined array key "alt_tag" in /home6/rndtd/public_html/demos/rofel/working/admin/add_testimonial.php on line 90
+[06-Sep-2023 07:32:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's ', `alt_tag` = '', `long_desc` = ' our nursing college represents a dynamic...' at line 1 in /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php:100
+Stack trace:
+#0 /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php(100): mysqli_query(Object(mysqli), 'UPDATE tbl_test...')
+#1 /home6/rndtd/public_html/demos/rofel/working/admin/add_testimonial.php(94): Update('tbl_testimonial', Array, 'WHERE id = '2'')
+#2 {main}
+  thrown in /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php on line 100
+[06-Sep-2023 07:32:25 UTC] PHP Warning:  Undefined array key "alt_tag" in /home6/rndtd/public_html/demos/rofel/working/admin/add_testimonial.php on line 90
+[06-Sep-2023 07:32:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's ', `alt_tag` = '', `long_desc` = ' our nursing college represents a dynamic...' at line 1 in /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php:100
+Stack trace:
+#0 /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php(100): mysqli_query(Object(mysqli), 'UPDATE tbl_test...')
+#1 /home6/rndtd/public_html/demos/rofel/working/admin/add_testimonial.php(94): Update('tbl_testimonial', Array, 'WHERE id = '2'')
+#2 {main}
+  thrown in /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php on line 100
+[06-Sep-2023 07:33:56 UTC] PHP Warning:  Undefined array key "alt_tag" in /home6/rndtd/public_html/demos/rofel/working/admin/add_testimonial.php on line 90
+[06-Sep-2023 07:33:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's ', `alt_tag` = '', `long_desc` = ' our nursing college represents a dynamic...' at line 1 in /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php:100
+Stack trace:
+#0 /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php(100): mysqli_query(Object(mysqli), 'UPDATE tbl_test...')
+#1 /home6/rndtd/public_html/demos/rofel/working/admin/add_testimonial.php(94): Update('tbl_testimonial', Array, 'WHERE id = '2'')
+#2 {main}
+  thrown in /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php on line 100
+[06-Sep-2023 07:34:02 UTC] PHP Warning:  Undefined array key "alt_tag" in /home6/rndtd/public_html/demos/rofel/working/admin/add_testimonial.php on line 90
+[06-Sep-2023 07:34:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's ', `alt_tag` = '', `long_desc` = ' our nursing college represents a dynamic...' at line 1 in /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php:100
+Stack trace:
+#0 /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php(100): mysqli_query(Object(mysqli), 'UPDATE tbl_test...')
+#1 /home6/rndtd/public_html/demos/rofel/working/admin/add_testimonial.php(94): Update('tbl_testimonial', Array, 'WHERE id = '2'')
+#2 {main}
+  thrown in /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php on line 100
+[06-Sep-2023 08:48:57 UTC] PHP Warning:  Undefined array key "alt_tag" in /home6/rndtd/public_html/demos/rofel/working/admin/add_testimonial.php on line 90
+[06-Sep-2023 08:49:05 UTC] PHP Warning:  Undefined array key "alt_tag" in /home6/rndtd/public_html/demos/rofel/working/admin/add_testimonial.php on line 90
+[06-Sep-2023 08:49:20 UTC] PHP Warning:  Undefined array key "alt_tag" in /home6/rndtd/public_html/demos/rofel/working/admin/add_testimonial.php on line 90
+[06-Sep-2023 08:49:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's ', `alt_tag` = '', `long_desc` = 'our nursing college represents a dynamic ...' at line 1 in /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php:100
+Stack trace:
+#0 /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php(100): mysqli_query(Object(mysqli), 'UPDATE tbl_test...')
+#1 /home6/rndtd/public_html/demos/rofel/working/admin/add_testimonial.php(94): Update('tbl_testimonial', Array, 'WHERE id = '2'')
+#2 {main}
+  thrown in /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php on line 100
+[06-Sep-2023 08:49:27 UTC] PHP Warning:  Undefined array key "alt_tag" in /home6/rndtd/public_html/demos/rofel/working/admin/add_testimonial.php on line 90
+[06-Sep-2023 08:49:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's ', `alt_tag` = '', `long_desc` = '' WHERE id = '2'' at line 1 in /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php:100
+Stack trace:
+#0 /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php(100): mysqli_query(Object(mysqli), 'UPDATE tbl_test...')
+#1 /home6/rndtd/public_html/demos/rofel/working/admin/add_testimonial.php(94): Update('tbl_testimonial', Array, 'WHERE id = '2'')
+#2 {main}
+  thrown in /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php on line 100
+[06-Sep-2023 08:49:36 UTC] PHP Warning:  Undefined array key "alt_tag" in /home6/rndtd/public_html/demos/rofel/working/admin/add_testimonial.php on line 90
+[06-Sep-2023 08:49:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's ', `alt_tag` = '', `long_desc` = ' our nursing college represents a dynamic...' at line 1 in /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php:100
+Stack trace:
+#0 /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php(100): mysqli_query(Object(mysqli), 'UPDATE tbl_test...')
+#1 /home6/rndtd/public_html/demos/rofel/working/admin/add_testimonial.php(94): Update('tbl_testimonial', Array, 'WHERE id = '2'')
+#2 {main}
+  thrown in /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php on line 100
+[06-Sep-2023 08:49:49 UTC] PHP Warning:  Undefined array key "alt_tag" in /home6/rndtd/public_html/demos/rofel/working/admin/add_testimonial.php on line 90
+[06-Sep-2023 08:49:58 UTC] PHP Warning:  Undefined array key "alt_tag" in /home6/rndtd/public_html/demos/rofel/working/admin/add_testimonial.php on line 90
+[06-Sep-2023 08:50:11 UTC] PHP Warning:  Undefined array key "alt_tag" in /home6/rndtd/public_html/demos/rofel/working/admin/add_testimonial.php on line 77
+[08-Sep-2023 05:07:30 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /home6/rndtd/public_html/demos/rofel/working/admin/add_file.php on line 169
+[08-Sep-2023 05:07:32 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /home6/rndtd/public_html/demos/rofel/working/admin/add_file.php on line 169
+[08-Sep-2023 06:01:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home6/rndtd/public_html/demos/rofel/working/admin/add_file.php on line 169
+[08-Sep-2023 06:01:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home6/rndtd/public_html/demos/rofel/working/admin/add_file.php on line 169
+[08-Sep-2023 06:01:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home6/rndtd/public_html/demos/rofel/working/admin/add_file.php on line 169
+[08-Sep-2023 06:01:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home6/rndtd/public_html/demos/rofel/working/admin/add_file.php on line 169
+[09-Sep-2023 04:03:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'vission_icon' in 'field list' in /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php:100
+Stack trace:
+#0 /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php(100): mysqli_query(Object(mysqli), 'UPDATE tbl_abou...')
+#1 /home6/rndtd/public_html/demos/rofel/working/admin/manage_mivigo.php(42): Update('tbl_about_us', Array, 'WHERE id=1')
+#2 {main}
+  thrown in /home6/rndtd/public_html/demos/rofel/working/admin/includes/function.php on line 100
