@@ -110,7 +110,7 @@ include_once "head.php";
                                                 pm</a>
                                         </li>
                                     </ul>
-                                    <a href="#" class="btn btn__white btn__rounded btn__outlined">Contact Us</a>
+                                    
                                 </div>
                             </div>
                         </div>
