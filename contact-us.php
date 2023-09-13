@@ -67,7 +67,7 @@ include_once "head.php";
                                         <div class="form-group">
                                             <i class="icon-news form-group-icon"></i>
                                             <select class="form-control">
-                                                <option value="0">Subject</option>
+                                                <option value="0" disabled selected>Subject</option>
                                                 <option value="1">Subject 1</option>
                                                 <option value="2">Subject 1</option>
                                             </select>
